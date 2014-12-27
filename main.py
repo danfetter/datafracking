@@ -1,0 +1,3 @@
+import connection_manager
+
+connection_manager.connect_internet()
